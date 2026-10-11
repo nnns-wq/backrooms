@@ -1,0 +1,1 @@
+Lleva .glb aqui: entity.glb
